@@ -2,3 +2,4 @@ streamlit
 pandas
 sqlalchemy-redshift
 redshift_connector
+SQLAlchemy==2.0.27
